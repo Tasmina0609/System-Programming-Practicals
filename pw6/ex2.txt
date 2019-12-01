@@ -1,0 +1,3 @@
+            cd and chdir do the same thing,
+      chdir - POSIX system call
+      chdir is called by cd because it has no kernel privileges

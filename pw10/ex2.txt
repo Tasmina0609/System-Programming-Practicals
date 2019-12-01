@@ -1,0 +1,5 @@
+gcc ex1.c -o g ex1
+gdb ex1
+run gdb
+enter CTRL\
+SIGQUIT received
